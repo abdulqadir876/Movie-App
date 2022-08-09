@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Netflix clone
 ![alt text](./src/img/img.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
